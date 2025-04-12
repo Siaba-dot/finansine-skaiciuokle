@@ -22,6 +22,15 @@ Jei pirkinys viršija vartotojo galimybes, skaičiuoklė parodo, per kiek mėnes
 🛡️ Ši skaičiuoklė **nerenka** ir **nesaugo** jokių vartotojų asmeninių duomenų.  
 Visi duomenys lieka tik vartotojo įrenginyje ir nėra perduodami trečiosioms šalims.
 
+Ši skaičiuoklė buvo sukurta švietimo ir tiksliniam naudojimui, siekiant padėti vartotojams lengviau planuoti pajamas, išlaidas bei finansinius tikslus.
+
+Skaičiuoklė pateikiama "kaip yra" be jokių garantijų dėl tikslumo ar tinkamumo specifiniams tikslams.
+
+Naudojimas vyksta vartotojo nuožiūra ir rizika.
+
+© 2025 Sigita Sprendimai
+
+
 ---
 
 # 🌐 Sukūrė:  
