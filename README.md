@@ -1,0 +1,1 @@
+# finansine-skaiciuokle
